@@ -1,6 +1,17 @@
-# Welcome to Remix!
+# Welcome to Remix Blocklet!
 
 - [Remix Docs](https://remix.run/docs)
+- [Blocklet Docs](https://developer.blocklet.io/docs)
+
+## Roadmap
+
+- [x] local development in blocklet server
+- [x] blocklet.js
+- [x] blocklet bundle
+- [x] blocklet deployment
+- [x] blocklet launch
+- [ ] blocklet component: mount to any pathname: resource loading
+- [ ] integrate backend database
 
 ## Development
 
