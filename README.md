@@ -6,6 +6,7 @@
 ## Roadmap
 
 - [x] local development in blocklet server
+- [ ] live reload or HMR works --> websocket server
 - [x] blocklet.js
 - [x] blocklet bundle
 - [x] blocklet deployment
